@@ -4,7 +4,7 @@
 - Go (1.20 или выше)
 - unit тесты (опционально)
 
-<details open>
+<details>
   <summary>Полный текст задания</summary>
 System prototype for biathlon competitions
 The prototype must be able to work with a configuration file and a set of external events of a certain format.
